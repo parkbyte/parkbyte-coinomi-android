@@ -18,7 +18,7 @@ public class ParkbyteMain extends CoinType {
         spendableCoinbaseDepth = 5;
 
         family = PeerFamily.get();
-        name = "Parkbyte";
+        name = "ParkByte";
         symbol = "PKB";
         uriScheme = "parkbyte"; // TODO verify, could be ppcoin?
         bip44Index = 6;
